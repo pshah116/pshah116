@@ -5,6 +5,7 @@ Welcome to my GitHub! I'm a data analyst with over 600+ hours of hands-on experi
 I bring a strong blend of technical expertise and real-world business acumen. My background in fast paced, customer-supporting roles, has sharpened my ability to communicate insights clearly, adapt quickly, and collaborate effectively. I'm proficient in SQL, Excel, Power BI, Python, and Tableau—tools I’ve used extensively to build data pipelines, clean messy datasets, and deliver polished, actionable dashboards.
 
 🛠 Core Skills
+
 Excel / Google Sheets: Advanced data manipulation, modeling, and reporting
 
 SQL: Writing complex queries to extract, filter, and manage large datasets
