@@ -2,6 +2,7 @@
 Welcome to my GitHub! I'm a data analyst with over 600+ hours of hands-on experience and a growing portfolio of impactful, data-driven projects. I specialize in data collection, analysis, and visualization, turning raw data into meaningful insights that drive smarter business decisions! I'm passionate about solving real-world problems through the power of data—and I’m ready to bring that value to your team! 
 
 🌟 About Me
+
 I bring a strong blend of technical expertise and real-world business acumen. My background in fast paced, customer-supporting roles, has sharpened my ability to communicate insights clearly, adapt quickly, and collaborate effectively. I'm proficient in SQL, Excel, Power BI, Python, and Tableau—tools I’ve used to build data pipelines, clean messy datasets, and deliver polished, actionable dashboards.
 
 🛠 Core Skills
