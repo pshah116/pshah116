@@ -27,12 +27,13 @@ Techniques: Conversion funnel analysis, retention cohort tracking
 Outcome: Identified key drop-off points in the funnel and recommended steps to improve retention.
 
 📈 Storytelling with Data (03/2025)- TABLEAU
+
 Investigated high return rates across product categories and built a clear visual narrative.
 
 Techniques: Data visualization, trend analysis, stakeholder communication
 
 Outcome: Developed a dashboard and video walkthrough with actionable strategies to reduce return rates and enhance customer experience.
 
-Feel free to check my repository for the full list of my completed projects!!
+## Feel free to check my repository for the full list of my completed projects!!
 
 
