@@ -19,14 +19,14 @@ Python: Data analysis, automation, and building repeatable data workflows
 
 🚀 Projects
 
-🔮 Customer Churn Forecasting (02/2025)
+🔮 Customer Churn Forecasting
 Analyzed user behavior for an e-commerce company to uncover retention and conversion issues.
 
 Techniques: Conversion funnel analysis, retention cohort tracking
 
 Outcome: Identified key drop-off points in the funnel and recommended steps to improve retention.
 
-📈 Storytelling with Data (03/2025)- TABLEAU
+📈 Storytelling with Data- TABLEAU
 
 Investigated high return rates across product categories and built a clear visual narrative.
 
