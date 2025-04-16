@@ -34,6 +34,6 @@ Techniques: Data visualization, trend analysis, stakeholder communication
 
 Outcome: Developed a dashboard and video walkthrough with actionable strategies to reduce return rates and enhance customer experience.
 
-## Feel free to check my repository for the full list of my completed projects!!
+## Feel free to check my repository for a full list of my completed projects!!
 
 
