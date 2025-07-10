@@ -1,5 +1,5 @@
 ## Hi there 👋
-Welcome to my GitHub! I'm a data analyst with over 600+ hours of hands-on experience and a growing portfolio of impactful, data-driven projects. I specialize in data collection, analysis, and visualization, turning raw data into meaningful insights that drive smarter business decisions! I'm passionate about solving real-world problems through the power of data—and I’m ready to bring that value to your team! 
+Welcome to my GitHub! I'm a data analyst with hands-on experience and a growing portfolio of impactful, data-driven projects. I specialize in data collection, analysis, and visualization, turning raw data into meaningful insights that drive smarter business decisions! I'm passionate about solving real-world problems through the power of data—and I’m ready to bring that value to your team! 
 
 🌟 About Me
 
